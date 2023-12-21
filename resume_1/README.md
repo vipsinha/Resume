@@ -4,9 +4,9 @@
 
 ## Preview
 
-[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://startbootstrap.github.io/startbootstrap-resume/)
+[![Resume Preview](https://assets.startbootstrap.com/img/screenshots/themes/resume.png)](https://vipsinha.github.io/Resume/)
 
-**[View Live Preview](https://startbootstrap.github.io/startbootstrap-resume/)**
+**[View Live Preview](https://vipsinha.github.io/Resume/)**
 
 ## Status
 
